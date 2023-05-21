@@ -1,0 +1,13 @@
+keras==2.12.0
+matplotlib==3.7.1
+mediapipe==0.10.0
+numpy==1.23.5
+oauthlib==3.2.2
+opencv-python-headless==4.7.0.72
+pandas==2.0.1
+Pillow==9.5.0
+protobuf==3.20.3
+scikit-learn==1.2.2
+streamlit==1.22.0
+tensorflow==2.12.0
+streamlit-webrtc==0.44.0
