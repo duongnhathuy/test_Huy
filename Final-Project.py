@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 from  PIL import Image
 import base64
+import plotly.graph_objs as go
 def intro():
     import streamlit as st
     from PIL import Image
